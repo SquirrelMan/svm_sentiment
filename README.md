@@ -1,6 +1,8 @@
 # svm_sentiment
 # 以情緒指標觀察台灣股市之研究
 
+https://ppt.cc/fYypsx
+
 台北大學 指導教授 涂登才 老師
 
 台北大學 資工所 宋晉德
